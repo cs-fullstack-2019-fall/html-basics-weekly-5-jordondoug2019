@@ -1,0 +1,146 @@
+#container{
+    display: inline;
+}
+#container2{
+    float:right;
+}
+h5{
+    float:left;
+}
+#body{
+    clear:both;
+    padding-left: 525px;
+    padding-top: 100px;
+    float: left;
+    position: relative;
+    left: 150px;
+
+}
+h1{
+    float: left;
+    /*font-size: 60px;*/
+    position: relative;
+    right: 20px;
+    font-weight: bold;
+    text-align: center;
+    font-family: "Product Sans";
+}
+#footer {
+    clear: both;
+}
+#about{
+    font-family: "Droid Sans Mono";
+}
+#about:hover{
+    text-decoration-line: underline;
+}
+#store{
+    margin-left: 18px;
+    font-family: "Droid Sans Mono";
+}
+#store:hover{
+    text-decoration-line: underline;
+}
+#gmail{
+    margin-right: 18px;
+    font-family: "Droid Sans Mono";
+}
+#gmail:hover{
+    text-decoration-line: underline;
+}
+#images{
+    margin-right: 5px;
+    font-family: "Droid Sans Mono";
+}
+#images:hover{
+    text-decoration-line: underline;
+}
+#search{
+ padding:4px;
+    width:35%;
+    height: 40px;
+    margin-left: 515px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+    border: 2px solid lightgrey;
+}
+
+
+#gbutton{
+    display:block;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding-right: 10px;
+    position: relative;
+    left:200px;
+    height: 30px;
+
+}
+#luckybutton{
+    float:right;
+    margin-left: 300px;
+    margin-right:350px;
+    position: relative;
+    bottom:30px;
+    right:250px;
+    height: 30px;
+}
+#g{
+    color: #68B7f9;
+    font-size: 80px;
+
+}
+#o1{
+    color: red;
+    font-size: 80px;
+}
+#o2{
+    color: yellow;
+    font-size: 80px;
+}
+#g2{
+    color:#68B7f9;
+    font-size: 80px;
+}
+#l{
+    color: green;
+    font-size: 80px;
+    text-align: center;
+}
+#e{
+    color: red;
+    font-size: 80px;
+    text-align: center;
+}
+
+#bottom{
+    display: block;
+    padding-left: 30px;
+
+
+
+}
+#footercontainer{
+    margin-top: 200px;
+    background-color: gray;
+}
+#footercontainer2{
+    float:right;
+    padding-left: 500px;
+    margin-bottom: 60px;
+}
+#business{
+    margin-left:18px
+}
+#howto{
+    margin-left: 18px;
+}
+#privacy{
+    margin-right: 18px;
+}
+#terms{
+    margin-right: 18px;
+}
+#settings{
+    margin-right: 18px;
+}
